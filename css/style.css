@@ -95,3 +95,12 @@ hr {
     margin-bottom: 70px;
 }
    
+@media (max-width: 420px) {
+    .autora { display: none;
+}
+    .menu { display: inline-block;
+            margin-left: 100px;
+            padding: 5px;
+            width: 31,5px; 
+}
+
